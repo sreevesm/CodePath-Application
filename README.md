@@ -40,7 +40,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+
+[First shows classic game; Second shows six box game] 
+
+https://cdn.glitch.com/79491d16-7a11-4856-9477-4ed5174c3722%2Fezgif.com-gif-maker%20(1).gif?v=1616116634676
+
+https://cdn.glitch.com/79491d16-7a11-4856-9477-4ed5174c3722%2Fezgif.com-gif-maker%20(2).gif?v=1616116684839
 
 
 ## Reflection Questions
